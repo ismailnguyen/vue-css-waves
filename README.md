@@ -16,7 +16,7 @@ Just import the `Waves` component where you want to see it !
 
 <script>
 	import Waves from 'vue-css-waves'
-    import 'vue-dark-mode-switch/dist/vue-css-waves.css'
+    import 'vue-css-waves/dist/vue-css-waves.css'
 
 	export default {
 		components: {
