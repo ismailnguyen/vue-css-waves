@@ -1,4 +1,4 @@
-# vue-dark-mode-switch
+# vue-css-waves
 VueJS CSS waves
 
 ## Install
